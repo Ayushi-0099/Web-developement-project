@@ -59,14 +59,7 @@ body{
     background-color: rgb(104, 84, 48);
     margin-top: 20px;
 }
-.form a{
-    text-decoration: none;
-    color:rgb(21, 20, 20);
-    margin-top: 20px;
-}
-.form a:hover{
-    color:rgb(226, 43, 11);
-}
+
 
 
 /*right side*/
