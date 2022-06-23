@@ -1,0 +1,204 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans&display=swap";
+
+body {
+background-color: #d3ad82;
+background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+display:flex;
+
+flex-direction:row;
+justify-content:center;
+align-content:center;
+align-items:center;
+}
+.main {
+display:flex;
+position:absolute;
+width:1380px;
+height:688px;
+left:0;
+top:0;
+flex-direction:row;
+justify-content:center;
+align-content:center;
+align-items:center;
+
+}
+
+
+
+
+
+.heading {
+display:flex;
+position:absolute;
+width:410px;
+height:121px;
+left:150px;
+top:100px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:bold;
+font-weight:700;
+font-size:50px;
+line-height:75px;
+color:rgb(7, 7, 7);
+}
+.signupPage {
+display:flex;
+position:absolute;
+width:450px;
+height:537px;
+left:840px;
+top:100px;
+background:rgba(19, 18, 18, 0.429);
+box-shadow:0 6px 9px rgba(0,0,0,0.08);
+border-radius:60px 60px;
+
+}
+
+.createPage {
+position:absolute;
+width:450px;
+height:537px;
+left:840px;
+top:186px;
+display:flex;
+}
+
+.username {
+position:absolute;
+width:79px;
+height:19px;
+left:904px;
+top:150px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:700;
+font-size:16px;
+line-height:19px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:#000;
+}
+
+.usertext {
+position:absolute;
+width:322px;
+height:50px;
+left:904px;
+top:200px;
+background:#FFF;
+border:1px solid #E4E4E4;
+box-sizing:border-box;
+box-shadow:0 2px 4px rgba(0,0,0,0.08);
+border-radius:2px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:400;
+font-size:16px;
+line-height:22px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:black;
+}
+
+.email {
+position:absolute;
+width:79px;
+height:19px;
+left:904px;
+top:280px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:700;
+font-size:16px;
+line-height:19px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:#000;
+}
+
+.emailtext {
+position:absolute;
+width:322px;
+height:50px;
+left:904px;
+top:320px;
+background:#FFF;
+border:1px solid #E4E4E4;
+box-sizing:border-box;
+box-shadow:0 2px 4px rgba(0,0,0,0.08);
+border-radius:2px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:400;
+font-size:16px;
+line-height:22px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:black;
+}
+
+.password {
+position:absolute;
+width:79px;
+height:19px;
+left:904px;
+top:400px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:700;
+font-size:16px;
+line-height:19px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:black;
+}
+
+.passwordtext {
+position:absolute;
+width:322px;
+height:50px;
+left:904px;
+top:440px;
+background:#FFF;
+border:1px solid #E4E4E4;
+box-sizing:border-box;
+box-shadow:0 2px 4px rgba(0,0,0,0.08);
+border-radius:2px;
+font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+font-style:normal;
+font-weight:400;
+font-size:16px;
+line-height:22px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:black;
+}
+
+.submit {
+position:absolute;
+width:322px;
+height:50px;
+left:904px;
+top:540px;
+background:#e8ba85;
+border-radius:6px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style:normal;
+font-weight:700;
+font-size:18px;
+line-height:22px;
+display:flex;
+align-items:center;
+letter-spacing:.01em;
+color:#FFF;
+justify-content:center;
+}
