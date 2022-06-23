@@ -87,25 +87,7 @@ body{
     padding-top: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-a:link {
-    color: rgb(3, 3, 3);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:visited {
-    color: rgb(0, 0, 0);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:hover {
-    color: rgb(246, 246, 246);
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  a:active {
-    color: rgb(0, 186, 247);
-    background-color: transparent;
-    text-decoration: underline;}
+
 .submit{
     position:absolute;
 width:322px;
