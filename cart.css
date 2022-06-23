@@ -1,0 +1,20 @@
+.cart h1 {
+    margin-left: 600px;
+}
+.price h2{
+    margin-left: 900px;
+}
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding:.9rem 3rem;
+    font-size: 1.7rem;
+    color:#fff;
+    margin-left: 900px;
+    background: rgb(236, 213, 162);
+    cursor: pointer;
+}
+
+.btn:hover{
+    letter-spacing: .2rem;
+}
